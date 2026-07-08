@@ -1,0 +1,7 @@
+$kind: collection
+name: StayEase API
+variables:
+  - key: supabase_service_role_api_key_145w
+    secret: true
+  - key: bearer_token_18c2
+    secret: true
